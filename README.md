@@ -1,74 +1,83 @@
-# PYTHON
-# 🐍 Python Basics (Print & Operators)
+# 🐍 Python for Beginners 
 
-##  print() Function
+This repository contains my daily progress while learning Python using the **100 Days Python Series by Code With Harry**.
 
-Used to display output on the screen.
+## Goal
 
-### Examples:
-
-```python
-print("HELLO VIEWERS")
-print("Hey I am Amar Kant Diwakar\nand I am author of this repository.")
-```
-
-### Important Points:
-
-* `\n` → New line
-* `\"` → Print double quotes inside string
-* You can also use `' '` instead of `" "`
+* Build strong Python fundamentals
+* Practice daily coding
+* Maintain consistency for 100 days
+* Create small projects and improve problem-solving skills
 
 ---
 
-## Multiple Values in print()
+## Repository Structure
 
-```python
-print("Date", 27, 4, 2026)
-```
+* `Basics/` → Introduction and basic syntax
 
-### With Formatting:
+* `Variables/` → Variables and data types
 
-```python
-print("Date", 27, 4, 2026, sep="-", end=".\n")
-```
+* `Conditions/` → If-else statements
 
-### Keywords:
+* `Loops/` → Loops (for, while)
 
-* `sep` → separates values (default = space `" "`)
-* `end` → what to print at the end (default = newline)
+* `Functions/` → Functions and modular code
 
----
+* `Lists/` → List operations
 
-## Arithmetic Operators
+* `Tuples/` → Tuples
 
-Used to perform calculations:
+* `Dictionaries/` → Dictionaries
 
-```python
-print(100/3)   # Division
-```
+* `Strings/` → String operations
 
-### Important Operators:
+* `FileHandling/` → File handling
 
-| Operator | Meaning             | Example  | Output |
-| -------- | ------------------- | -------- | ------ |
-| `+`      | Addition            | `5 + 2`  | 7      |
-| `-`      | Subtraction         | `5 - 2`  | 3      |
-| `*`      | Multiplication      | `5 * 2`  | 10     |
-| `/`      | Division            | `5 / 2`  | 2.5    |
-| `//`     | Floor Division      | `5 // 2` | 2      |
-| `%`      | Modulus (remainder) | `5 % 2`  | 1      |
-| `**`     | Power               | `2 ** 3` | 8      |
+* `Mini_Projects/` → Small projects built during learning
+
+* `Practice_Problems/` → Practice problems and solutions
 
 ---
 
-## ⚡ Quick Notes
+## 📅 Daily Progress
 
-* `/` always gives float result
-* `//` removes decimal (integer division)
-* `%` gives remainder (VERY IMPORTANT for logic)
-* `**` is used for powers
+I upload:
+
+* Notes (for revision)
+* Code examples
+* Practice problems
+
+---
+
+## 🚀 Learning Source
+
+IIT MADRAS PROFESSORS
+YouTube: Code With Harry
 
 ---
 
+## Why this repository?
+
+This repo helps me:
+
+* Revise concepts quickly
+* Track my consistency
+* Build a coding habit
+* Showcase my learning journey
 
 ---
+
+## Status
+
+Day 2 / 100 ✅ (Updating daily)
+
+---
+
+## Connect
+
+Feel free to explore, suggest improvements, or use this as a learning reference.
+
+---
+
+⭐ If you find this useful, consider giving a star!
+
