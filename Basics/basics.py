@@ -1,6 +1,7 @@
 print("HELLO VIEWERS")
 
 print(100/3) #you can use * for multiplication % for remainder etc.. 
+print(25**2) #this is for square not multiplication-(25*2)
 
 print("Hey I am Amar Kant Diwakar\nand i am author of this repository. ")
 

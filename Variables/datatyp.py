@@ -26,3 +26,4 @@ print(tuple)
 
 print("The type of list is", type(list))
 print("The type of list is", type(tuple))
+
