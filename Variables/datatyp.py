@@ -14,10 +14,6 @@ c=True
 print(c)
 print("The type of a is", type(c))
 
-d=None
-print(d)
-print("The type of a is", type(d))
-
 list=[12, 34, ["Apple", "Banana"]]
 print(list)
 
@@ -27,3 +23,12 @@ print(tuple)
 print("The type of list is", type(list))
 print("The type of list is", type(tuple))
 
+#TYPECASTING 
+a="2.1"
+b="3"
+print(a+b) #Implicit TypeCasting
+print(float (a)+ int (b))
+
+#Taking user input 
+a=input("Enter your name  ")
+print("My name is", a)
